@@ -996,7 +996,7 @@ QWidget .QFrame#frame_Balances > .QLabel {
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
     background-color:transparent;
-    color:#a71c20;
+    color:#caba5a;
     font-weight:bold;
     font-size:14px;
     margin-right:5px;
@@ -1018,14 +1018,14 @@ QWidget .QFrame#frame_Balances .QLabel#labelWatchonly { /* Watch-only Header */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:12px;
     margin-left:16px;
-    color: #f6ff00;
+    color: #caba5a;
     font-weight:bold;
 }
 
 QWidget .QFrame#frame_Balances .QLabel#labelBalanceText { /* Available Balance Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#a200ff;
+    color:#caba5a;
     margin-right:5px;
     padding-right:5px;
     font-size:12px;
@@ -1034,7 +1034,7 @@ QWidget .QFrame#frame_Balances .QLabel#labelBalanceText { /* Available Balance L
 QWidget .QFrame#frame_Balances .QLabel#labelBalance   { /* Available Balance */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:12px;
-    color: #0cff00;
+    color: #caba5a;
     margin-left:0 px;
 }
 
@@ -1042,7 +1042,7 @@ QWidget .QFrame#frame_Balances .QLabel#labelSpendable   { /* Available Balance *
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:17px;
     font-weight:bold;
-    color: #fc00ff;
+    color: #caba5a;
     margin-left:0 px;
 }
 
@@ -1050,13 +1050,13 @@ QWidget .QFrame#frame_Balances .QLabel#labelWatchAvailable { /* Watch-only Balan
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:12px;
     margin-left:16px;
-    color: #ffae00;
+    color: #caba5a;
 }
 
 QWidget .QFrame#frame_Balances .QLabel#labelPendingText { /* Pending Balance Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#723e07;
+    color:#caba5a;
     margin-right:5px;
     padding-right:5px;
     font-size:12px;
@@ -1065,7 +1065,7 @@ QWidget .QFrame#frame_Balances .QLabel#labelPendingText { /* Pending Balance Lab
 QWidget .QFrame#frame_Balances .QLabel#labelUnconfirmed { /* Pending Balance */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:12px;
-    color:#f7b3f5;
+    color:#caba5a;
     margin-left:0px;
 }
 
@@ -1073,13 +1073,13 @@ QWidget .QFrame#frame_Balances .QLabel#labelWatchPending { /* Watch-only Pending
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:12px;
     margin-left:16px;
-    color: #ff6600;
+    color: #caba5a;
 }
 
 QWidget .QFrame#frame_Balances .QLabel#labelImmatureText { /* Immature Balance Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#00fcff;
+    color:#caba5a;
     margin-right:5px;
     padding-right:5px;
     font-size:12px;
@@ -1088,7 +1088,7 @@ QWidget .QFrame#frame_Balances .QLabel#labelImmatureText { /* Immature Balance L
 QWidget .QFrame#frame_Balances .QLabel#labelImmature { /* Immature Balance */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:14px;
-    color:#0e4b13;
+    color:#caba5a;
     margin-left:0px;
 }
 
@@ -1096,13 +1096,13 @@ QWidget .QFrame#frame_Balances .QLabel#labelWatchImmature { /* Watch-only Immatu
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:12px;
     margin-left:16px;
-    color:#c9f4cc;
+    color:#caba5a;
 }
 
 QWidget .QFrame#frame_Balances .QLabel#labelTotalText { /* Total Balance Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#f4bebe;
+    color:#caba5a;
     margin-right:5px;
     padding-right:5px;
     font-size:12px;
@@ -1111,7 +1111,7 @@ QWidget .QFrame#frame_Balances .QLabel#labelTotalText { /* Total Balance Label *
 QWidget .QFrame#frame_Balances .QLabel#labelTotal { /* Total Balance */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:12px;
-    color:#d0bef4;
+    color:#caba5a;
     margin-left:0px;
 }
 
@@ -1119,13 +1119,13 @@ QWidget .QFrame#frame_Balances .QLabel#labelWatchTotal { /* Watch-only Total Bal
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:12px;
     margin-left:16px;
-    color:#13e3b4;
+    color:#caba5a;
 }
 
     QWidget .QFrame#frame_Balances .QLabel#labelLockedBalanceText { /* Available zCDZC Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#b4e313;
+    color:#caba5a;
     margin-right:5px;
     padding-right:5px;
     font-size:12px;
@@ -1134,7 +1134,7 @@ QWidget .QFrame#frame_Balances .QLabel#labelWatchTotal { /* Watch-only Total Bal
     QWidget .QFrame#frame_Balances .QLabel#labelLockedBalance { /* Available zCDZC Balance */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:12px;
-    color:#52725f;
+    color:#caba5a;
     margin-left:0px;
 }
 
@@ -1142,7 +1142,7 @@ QWidget .QFrame#frame_Balances .QLabel#labelWatchTotal { /* Watch-only Total Bal
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:12px;
     margin-left:16px;
-    color:#553333;
+    color:#caba5a;
 }
 
 /* Zerocoin additions start here ***********************************************/
@@ -1161,7 +1161,7 @@ QWidget .QFrame#frame_ZerocoinBalances .QLabel#label_5z_3 { /* Zerocoin Balance 
     QWidget .QFrame#frame_ZerocoinBalances .QLabel#labelzBalanceText { /* Available zCDZC Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#898989;
+    color:#d0bef4;
     margin-right:5px;
     padding-right:5px;
     font-size:12px;
@@ -1177,7 +1177,7 @@ QWidget .QFrame#frame_ZerocoinBalances .QLabel#label_5z_3 { /* Zerocoin Balance 
     QWidget .QFrame#frame_ZerocoinBalances .QLabel#labelzBalanceUnconfirmedText { /* Unconfirmed zCDZC Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#898989;
+    color:#d0bef4;
     margin-right:5px;
     padding-right:5px;
     font-size:12px;
@@ -1193,7 +1193,7 @@ QWidget .QFrame#frame_ZerocoinBalances .QLabel#label_5z_3 { /* Zerocoin Balance 
     QWidget .QFrame#frame_ZerocoinBalances .QLabel#labelzBalanceMatureText { /* Mature zCDZC Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#898989;
+    color:#d0bef4;
     margin-right:5px;
     padding-right:5px;
     font-size:12px;
@@ -1209,7 +1209,7 @@ QWidget .QFrame#frame_ZerocoinBalances .QLabel#label_5z_3 { /* Zerocoin Balance 
     QWidget .QFrame#frame_ZerocoinBalances .QLabel#labelzBalanceImmatureText { /* Immature zCDZC Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#898989;
+    color:#d0bef4;
     margin-right:5px;
     padding-right:5px;
     font-size:12px;
@@ -1236,7 +1236,7 @@ QWidget .QFrame#frame_CombinedBalances .QLabel#label_5z { /* Combined Balance La
     QWidget .QFrame#frame_CombinedBalances .QLabel#labelBalanceTextz { /* Available CDZC Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#898989;
+    color:#d0bef4;
     margin-right:5px;
     padding-right:5px;
     font-size:12px;
@@ -1252,7 +1252,7 @@ QWidget .QFrame#frame_CombinedBalances .QLabel#label_5z { /* Combined Balance La
     QWidget .QFrame#frame_CombinedBalances .QLabel#labelzBalanceTextz { /* Available zCDZC Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#898989;
+    color:#d0bef4;
     margin-right:5px;
     padding-right:5px;
     font-weight:bold;
@@ -1270,7 +1270,7 @@ QWidget .QFrame#frame_CombinedBalances .QLabel#label_5z { /* Combined Balance La
 QWidget .QFrame#frame_CombinedBalances .QLabel#labelTotalTextz { /* Available total Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#898989;
+    color:#d0bef4;
     margin-right:5px;
     padding-right:5px;
     font-size:12px;

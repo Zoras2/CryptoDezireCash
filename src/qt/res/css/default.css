@@ -756,21 +756,21 @@ QWidget#PrivacyDialog QLabel {
 
 QWidget#PrivacyDialog QLabel#labelzGTMActions {
     font-size:17px;
-    color:#1C2632;
+    color:#caba5a;
     background-color:transparent;
     font-weight: bold;
 }
 
 QWidget#PrivacyDialog QLabel#labelzGTMStats {
     font-size:17px;
-    color:#1C2632;
+    color:#caba5a;
     background-color:transparent;
     font-weight: bold;
 }
 
 QWidget#PrivacyDialog QLabel#labelZsupplyText {
     font-size:17px;
-    color:#1C2632;
+    color:#caba5a;
     background-color:transparent;
     font-weight: bold;
 }
@@ -1202,7 +1202,7 @@ QWidget .QFrame#frame_ZerocoinBalances .QLabel#label_5z_3 { /* Zerocoin Balance 
     QWidget .QFrame#frame_ZerocoinBalances .QLabel#labelzBalanceMature { /* Mature zCDZC Balance */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:12px;
-    color:#1C2632;
+    color:#caba5a;
     margin-left:0px;
 }
 
@@ -1218,7 +1218,7 @@ QWidget .QFrame#frame_ZerocoinBalances .QLabel#label_5z_3 { /* Zerocoin Balance 
     QWidget .QFrame#frame_ZerocoinBalances .QLabel#labelzBalanceImmature { /* Immature zCDZC Balance */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:12px;
-    color:#1C2632;
+    color:#caba5a;
     margin-left:0px;
 }
 
@@ -1226,7 +1226,7 @@ QWidget .QFrame#frame_CombinedBalances .QLabel#label_5z { /* Combined Balance La
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
     background-color:transparent;
-    color:#1C2632;
+    color:#caba5a;
     font-weight:bold;
     font-size:14px;
     margin-right:5px;
@@ -1246,7 +1246,7 @@ QWidget .QFrame#frame_CombinedBalances .QLabel#label_5z { /* Combined Balance La
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:26px;
     font-weight:normal;
-    color: #1C2632;
+    color: #caba5a;
 }
 
     QWidget .QFrame#frame_CombinedBalances .QLabel#labelzBalanceTextz { /* Available zCDZC Label */
@@ -1263,7 +1263,7 @@ QWidget .QFrame#frame_CombinedBalances .QLabel#label_5z { /* Combined Balance La
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:12px;
     font-weight:bold;
-    color:#1C2632;
+    color:#caba5a;
     margin-left:0px;
 }
 
@@ -1280,7 +1280,7 @@ QWidget .QFrame#frame_CombinedBalances .QLabel#labelTotalz { /* Available total 
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:20px;
     font-weight:normal;
-    color:#1C2632;
+    color:#caba5a;
 }
 
 /**************************** RECENT TRANSACTIONS ***************************************/
@@ -1296,7 +1296,7 @@ QWidget .QFrame#frame_RecentTransactions .QLabel#label_4 { /* Recent Transaction
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:180px;
     background-color:transparent;
-    color:#1C2632;
+    color:#caba5a;
     font-weight:bold;
     font-size:16px;
     margin-right:5px;
@@ -1358,7 +1358,7 @@ QDialog#SendCoinsDialog .QFrame#frameCoinControl .QLabel#labelCoinControlFeature
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
     background-color:transparent;
-    color:#1C2632;
+    color:#caba5a;
     font-weight:bold;
     font-size:14px;
     margin-right:5px;
@@ -1399,7 +1399,7 @@ QDialog#SendCoinsDialog .QCheckBox#checkUseObfuscation { /* Obfuscation Checkbox
 }
 
 QDialog#SendCoinsDialog .QCheckBox#checkSwiftTX { /* SwiftTX Checkbox */
-    color:#1C2632;
+    color:#caba5a;
     border-radius:5px;
     padding-top:20px;
     padding-bottom:18px;
@@ -1408,7 +1408,7 @@ QDialog#SendCoinsDialog .QCheckBox#checkSwiftTX { /* SwiftTX Checkbox */
 }
 
 QDialog#SendCoinsDialog .QCheckBox#checkzGTM { /* SwiftTX Checkbox */
-    color:#1C2632;
+    color:#caba5a;
     border-radius:5px;
     padding-top:20px;
     padding-bottom:18px;
@@ -1420,12 +1420,12 @@ QDialog#SendCoinsDialog .QCheckBox#checkzGTM { /* SwiftTX Checkbox */
 /* To maximize backwards compatibility this formatting has been removed */
 
 QDialog#SendCoinsDialog QLabel#label {
-    color:#1C2632;
+    color:#caba5a;
     min-height:27px;
 }
 
 QDialog#SendCoinsDialog QLabel#labelBalance {
-    color:#1C2632;
+    color:#caba5a;
     font-weight:bold;
     margin-left:0px;
     padding-left:0px;
@@ -1648,7 +1648,7 @@ QWidget#ReceiveCoinsDialog .QFrame#frame2 QPushButton:pressed {
 }
 
 QWidget#ReceiveCoinsDialog .QFrame#frame .QLabel#label_6 { /* Requested Payments History Label */
-    color:#1C2632;
+    color:#caba5a;
     font-weight:bold;
     font-size:14px;
 }

@@ -31,9 +31,9 @@ static const bool DEFAULT_SPLASHSCREEN = true;
 /* Transaction list -- TX status decoration - open until date */
 #define COLOR_TX_STATUS_OPENUNTILDATE QColor(169, 162, 121)
 /* Transaction list -- TX status decoration - offline */
-#define COLOR_TX_STATUS_OFFLINE QColor(192, 192, 192)
+#define COLOR_TX_STATUS_OFFLINE QColor(238, 238, 238)
 /* Transaction list -- TX status decoration - default color */
-#define COLOR_BLACK QColor(51, 51, 51)
+#define COLOR_BLACK QColor(202, 186, 90)
 #define COLOR_WHITE QColor(255, 255, 255)
 /* Transaction list -- TX status decoration - conflicted */
 #define COLOR_CONFLICTED QColor(170, 29, 33)

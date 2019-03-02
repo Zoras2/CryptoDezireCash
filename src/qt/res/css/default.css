@@ -87,7 +87,7 @@ QToolBar > QToolButton#ToolbarSpacer:hover:!selected {
 }
 
 QMessageBox {
-    background-color: #fff;
+    background-color: #f6ff00;
 }
 
 QProgressBar {
@@ -132,7 +132,7 @@ QTabBar::tab:hover:!selected {
 
 QWidget {
     selection-background-color:qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: .1 rgba(202, 186, 90, 100), stop: .95 rgba(202, 186, 90, 120)); /* Object highlight color */
-    selection-color:#fff;
+    selection-color:#a200ff;
     outline:0; /* Remove Annoying Focus Rectangle */
 }
 
@@ -150,7 +150,7 @@ QToolTip {
 
 QLabel { /* Base Text Size & Color */
     font-size: 12px;
-    color: #ffffff;
+    color: #0cff00;
 }
 
 .QRadioButton { /* Radio Button Labels */
@@ -243,7 +243,7 @@ QToolButton#deleteButton, QToolButton#addressDeleteButton, QToolButton#inputDele
 QToolButton#keyDeleteButton, QToolButton#addressPasteButton {
     background: #ffffff;
     border-radius: 5px;
-    color:#ffffff;
+    color:#fc00ff;
     font-size:12px;
     font-weight:bold;
     padding-left:25px;
@@ -407,7 +407,7 @@ QHeaderView { /* Table Header */
 QHeaderView::section { /* Table Header Sections */
     qproperty-alignment:center;
     background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: .01 rgba(202, 186, 90, 180), stop: .1 rgba(202, 186, 90, 180), stop: .95 rgba(202, 186, 90, 180), stop: 1 rgba(202, 186, 90, 180));
-    color:#fff;
+    color:#ffae00;
     min-height:25px;
     font-weight:bold;
     font-size:11px;
@@ -702,7 +702,7 @@ QDialog#OpenURIDialog QPushButton#selectFileButton:pressed {
 /**************************** SEND AND RECEIVE ADDRESSES DIALOG *****************************/
 
 QWidget#AddressBookPage {
-    background-color:#252525;
+    background-color: transparent;
 }
 
 /* QWidget#AddressBookPage QPushButton#newAddress { /* New Address Button */
@@ -750,7 +750,7 @@ QWidget#PrivacyDialog QLabel {
 
     QWidget#PrivacyDialog QLabel#oCDZCLabel {
     font-size:14px;
-    color:#ffffff;
+    color:#723e07;
     background-color:#5c4c7c;
 }
 
@@ -883,7 +883,7 @@ QDialog#RPCConsole QLineEdit#lineEdit { /* Console Input */
 QDialog#RPCConsole QPushButton#clearButton { /* Console Clear Button */
     background: transparent;
     border-radius: 5px;
-    color:#ffffff;
+    color:#f7b3f5;
     font-size:12px;
     font-weight:bold;
     padding:10px;
@@ -1102,7 +1102,7 @@ QWidget .QFrame#frame_Balances .QLabel#labelWatchImmature { /* Watch-only Immatu
 QWidget .QFrame#frame_Balances .QLabel#labelTotalText { /* Total Balance Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#ffffff;
+    color:#ff6600;
     margin-right:5px;
     padding-right:5px;
     font-size:12px;
@@ -1562,12 +1562,12 @@ QDialog#CoinControlDialog .CoinControlTreeWidget#treeWidget::item {
 
 QDialog#CoinControlDialog .CoinControlTreeWidget#treeWidget::item:selected { /* Coin Control Item (selected) */
     background-color:#252525;
-    color:#fff;
+    color:#00fcff;
 }
 
 QDialog#CoinControlDialog .CoinControlTreeWidget#treeWidget::item:checked { /* Coin Control Item (checked) */
     background-color:#f7f7f7;
-    color:#fff;
+    color:#0e4b13;
 }
 
 QDialog#CoinControlDialog .CoinControlTreeWidget#treeWidget::branch:selected { /* Coin Control Branch Icon */
@@ -1575,7 +1575,7 @@ QDialog#CoinControlDialog .CoinControlTreeWidget#treeWidget::branch:selected { /
     background-repeat:no-repeat;
     background-position:center;
     background-color:#f7f7f7;
-    color:#333;
+    color:#c9f4cc;
 }
 
 QDialog#CoinControlDialog .CoinControlTreeWidget#treeWidget::branch:checked { /* Coin Control Branch Icon */
@@ -1583,7 +1583,7 @@ QDialog#CoinControlDialog .CoinControlTreeWidget#treeWidget::branch:checked { /*
     background-repeat:no-repeat;
     background-position:center;
     background-color:#f7f7f7;
-    color:#333;
+    color:#f4bebe;
 }
 
 QDialog#CoinControlDialog .CoinControlTreeWidget#treeWidget::seperator {

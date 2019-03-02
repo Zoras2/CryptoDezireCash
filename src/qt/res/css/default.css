@@ -464,7 +464,7 @@ QTableWidget:focus, QTableView, QTableView:focus { /* Remove focus outline */
 QTreeWidget { /* Tree Background */
     background-color:#fcfcfc;
     alternate-background-color:#f2f2f2;
-    color:#f6ff00;
+    color:#282828;
 }
 
 QScrollBar { /* Scroll Bar */

@@ -132,7 +132,7 @@ QTabBar::tab:hover:!selected {
 
 QWidget {
     selection-background-color:qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: .1 rgba(202, 186, 90, 100), stop: .95 rgba(202, 186, 90, 120)); /* Object highlight color */
-    selection-color:#a200ff;
+    selection-color:#ededed;
     outline:0; /* Remove Annoying Focus Rectangle */
 }
 
@@ -243,7 +243,7 @@ QToolButton#deleteButton, QToolButton#addressDeleteButton, QToolButton#inputDele
 QToolButton#keyDeleteButton, QToolButton#addressPasteButton {
     background: #ffffff;
     border-radius: 5px;
-    color:#fc00ff;
+    color:#ededed;
     font-size:12px;
     font-weight:bold;
     padding-left:25px;
@@ -407,7 +407,7 @@ QHeaderView { /* Table Header */
 QHeaderView::section { /* Table Header Sections */
     qproperty-alignment:center;
     background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: .01 rgba(202, 186, 90, 180), stop: .1 rgba(202, 186, 90, 180), stop: .95 rgba(202, 186, 90, 180), stop: 1 rgba(202, 186, 90, 180));
-    color:#ffae00;
+    color:#fff;
     min-height:25px;
     font-weight:bold;
     font-size:11px;
@@ -750,7 +750,7 @@ QWidget#PrivacyDialog QLabel {
 
     QWidget#PrivacyDialog QLabel#oCDZCLabel {
     font-size:14px;
-    color:#723e07;
+    color:#ffffff;
     background-color:#5c4c7c;
 }
 
@@ -883,7 +883,7 @@ QDialog#RPCConsole QLineEdit#lineEdit { /* Console Input */
 QDialog#RPCConsole QPushButton#clearButton { /* Console Clear Button */
     background: transparent;
     border-radius: 5px;
-    color:#f7b3f5;
+    color:#ffffff;
     font-size:12px;
     font-weight:bold;
     padding:10px;
@@ -1102,7 +1102,7 @@ QWidget .QFrame#frame_Balances .QLabel#labelWatchImmature { /* Watch-only Immatu
 QWidget .QFrame#frame_Balances .QLabel#labelTotalText { /* Total Balance Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#ff6600;
+    color:#ffffff;
     margin-right:5px;
     padding-right:5px;
     font-size:12px;
@@ -1562,7 +1562,7 @@ QDialog#CoinControlDialog .CoinControlTreeWidget#treeWidget::item {
 
 QDialog#CoinControlDialog .CoinControlTreeWidget#treeWidget::item:selected { /* Coin Control Item (selected) */
     background-color:#252525;
-    color:#00fcff;
+    color:#caba5a;
 }
 
 QDialog#CoinControlDialog .CoinControlTreeWidget#treeWidget::item:checked { /* Coin Control Item (checked) */

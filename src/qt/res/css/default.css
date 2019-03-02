@@ -59,7 +59,7 @@ QToolBar > QToolButton {
     font-size: 11px;
     font-weight: bold;
     color: rgba(255, 255, 255, 0.5);
-    border-left: 5px solid #caba5a;
+    border-left: 5px solid #282828;
     width: 130px;
     height: 85px;
     font-size:12px;
@@ -241,7 +241,7 @@ QToolButton#copySignatureButton_SM, QToolButton#addressBookButton_ENC, QToolButt
 QToolButton#copyKeyButton_ENC, QToolButton#selectFileButton, QToolButton#addressBookButton_VM, QToolButton#pasteButton_DEC,
 QToolButton#deleteButton, QToolButton#addressDeleteButton, QToolButton#inputDeleteButton, QToolButton#destinationDeleteButton,
 QToolButton#keyDeleteButton, QToolButton#addressPasteButton {
-    background: #E17061;
+    background: #ffffff;
     border-radius: 5px;
     color:#ffffff;
     font-size:12px;
@@ -1226,7 +1226,7 @@ QWidget .QFrame#frame_CombinedBalances .QLabel#label_5z { /* Combined Balance La
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
     background-color:transparent;
-    color:#caba5a;
+    color:#ffffff;
     font-weight:bold;
     font-size:14px;
     margin-right:5px;
@@ -1236,7 +1236,7 @@ QWidget .QFrame#frame_CombinedBalances .QLabel#label_5z { /* Combined Balance La
     QWidget .QFrame#frame_CombinedBalances .QLabel#labelBalanceTextz { /* Available CDZC Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#ffffff;
+    color:#caba5a;
     margin-right:5px;
     padding-right:5px;
     font-size:12px;
@@ -1246,13 +1246,13 @@ QWidget .QFrame#frame_CombinedBalances .QLabel#label_5z { /* Combined Balance La
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:26px;
     font-weight:normal;
-    color: #caba5a;
+    color: #ffffff;
 }
 
     QWidget .QFrame#frame_CombinedBalances .QLabel#labelzBalanceTextz { /* Available zCDZC Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#ffffff;
+    color:#caba5a;
     margin-right:5px;
     padding-right:5px;
     font-weight:bold;
@@ -1263,14 +1263,14 @@ QWidget .QFrame#frame_CombinedBalances .QLabel#label_5z { /* Combined Balance La
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     font-size:12px;
     font-weight:bold;
-    color:#caba5a;
+    color:#ffffff;
     margin-left:0px;
 }
 
 QWidget .QFrame#frame_CombinedBalances .QLabel#labelTotalTextz { /* Available total Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#ffffff;
+    color:#caba5a;
     margin-right:5px;
     padding-right:5px;
     font-size:12px;

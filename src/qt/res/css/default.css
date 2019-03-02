@@ -87,7 +87,7 @@ QToolBar > QToolButton#ToolbarSpacer:hover:!selected {
 }
 
 QMessageBox {
-    background-color: #f6ff00;
+    background-color: #282828;
 }
 
 QProgressBar {
@@ -622,7 +622,7 @@ QDialog .QTabWidget::pane {
 
 QDialog .QTabWidget QTabBar::tab {
     background-color: #ffffff;
-    color:#0cff00;
+    color:#282828;
     padding-left:10px;
     padding-right:10px;
     padding-top:5px;
@@ -640,7 +640,7 @@ QDialog .QTabWidget QTabBar::tab:last {
 
 QDialog .QTabWidget QTabBar::tab:selected, QDialog .QTabWidget QTabBar::tab:hover {
     background-color:#d7d7d7;
-    color:#fc00ff;
+    color:#282828;
 }
 
 QDialog .QTabWidget .QWidget {
@@ -1679,7 +1679,7 @@ QLabel#transactionSumLabel { /* Example of setObjectName for widgets without nam
 }
 
 QLabel#transactionSum { /* Example of setObjectName for widgets without name */
-    color:#f6ff00;
+    color:#282828;
 }
 
 /**************************** TRANSACTION DETAILS DIALOG ********************************/

@@ -224,11 +224,11 @@ QPushButton:hover {
 }
 
 QPushButton:active {
-    background: none;
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: .1 rgba(202, 186, 90, 100), stop: .95 rgba(202, 186, 90, 120));
 }
 
 QPushButton:focus {
-    background: none;
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: .1 rgba(202, 186, 90, 80), stop: .95 rgba(202, 186, 90, 80));
 }
 
 QPushButton:pressed {
@@ -1102,7 +1102,7 @@ QWidget .QFrame#frame_Balances .QLabel#labelWatchImmature { /* Watch-only Immatu
 QWidget .QFrame#frame_Balances .QLabel#labelTotalText { /* Total Balance Label */
     qproperty-alignment: 'AlignVCenter | AlignLeft';
     min-width:160px;
-    color:#f6ff00;
+    color:#ffffff;
     margin-right:5px;
     padding-right:5px;
     font-size:12px;

@@ -27,13 +27,13 @@ static const bool DEFAULT_SPLASHSCREEN = true;
 /* Transaction list -- negative amount */
 #define COLOR_NEGATIVE QColor(251, 68, 68)
 /* Transaction list -- bare address (without label) */
-#define COLOR_BAREADDRESS QColor(202, 186, 90)
+#define COLOR_BAREADDRESS QColor(255, 255, 255)
 /* Transaction list -- TX status decoration - open until date */
 #define COLOR_TX_STATUS_OPENUNTILDATE QColor(169, 162, 121)
 /* Transaction list -- TX status decoration - offline */
 #define COLOR_TX_STATUS_OFFLINE QColor(238, 238, 238)
 /* Transaction list -- TX status decoration - default color */
-#define COLOR_BLACK QColor(202, 186, 90)
+#define COLOR_BLACK QColor(255, 255, 255)
 #define COLOR_WHITE QColor(255, 255, 255)
 /* Transaction list -- TX status decoration - conflicted */
 #define COLOR_CONFLICTED QColor(170, 29, 33)
@@ -41,7 +41,7 @@ static const bool DEFAULT_SPLASHSCREEN = true;
 /* Transaction list -- TX status decoration - orphan (Light Gray #D3D3D3) */
 #define COLOR_ORPHAN QColor(211, 211, 211)
 /* Transaction list -- TX status decoration - stake (BlueViolet #e28a2b) */
-#define COLOR_STAKE QColor(202, 186, 90)
+#define COLOR_STAKE QColor(255, 255, 255)
 /* Tooltips longer than this (in characters) are converted into rich text,
    so that they can be word-wrapped.
  */
